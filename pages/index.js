@@ -1,8 +1,3 @@
-/*
-  Project: Transez Nigeria Website (Next.js Static Site)
-  Description: Homepage with extracted Header and Footer components, plus added About and Clients sections
-*/
-
 // pages/index.js
 import Head from 'next/head';
 import Header from '../components/Header';
@@ -84,4 +79,3 @@ export default function Home() {
     </>
   );
 }
-

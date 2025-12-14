@@ -1,0 +1,11 @@
+/* styles/globals.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: system-ui, sans-serif;
+  line-height: 1.6;
+  background-color: #fff;
+  color: #111;
+}
